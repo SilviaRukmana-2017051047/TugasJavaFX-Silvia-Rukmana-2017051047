@@ -1,3 +1,6 @@
+//Nama: Silvia Rukmana
+//NPM: 2017051047
+//Kelas: D
 package tugasjavafx;
 
 import javafx.application.Application;
